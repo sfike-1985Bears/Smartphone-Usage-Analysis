@@ -5,7 +5,7 @@ Data analysis project examining smartphone usage patterns and addiction indicato
 
 ## Project Overview
 
-This project analyzes smartphone usage behavior and addiction indicators using a dataset of 7,500 users
+This project analyzes smartphone usage behavior and addiction indicators across a dataset of 7,500 users using MySQL and Power BI.
 
 The analysis explores:
 
@@ -32,18 +32,22 @@ The analysis explores:
 ## Files Included
 
  |  File  |  Description  |
- |--------------------------|
+ |  :---  |  :--- |
  |  Smartphone_Usage_Analysis.pbix  |  Power BI dashboard  |
  |  MySQL_Queries.sql  |  SQL analysis and validating  |
  |  Smartphone_Usage_Dataset.xlsx  |  Original data, Power BI changes and Cleaned data  |
  |  Executive_Summary.pdf  |  Project report  |
 
 ## Dashboard Preview
-Main page of dashboard
+Main page of dashboard:
 ![Dashboard KPIs](Overview.png) 
 
 ## Demographics
-Usage behavior by demographics
+Usage behavior by demographics:
 ![Dashboard Usage](Demographics.png)
+
+##  Addiction Metrics
+Usage and demographics by addicted and non-addicted:
+![Dashboard Addiction](Addiction_Metrics.png)
 
 
