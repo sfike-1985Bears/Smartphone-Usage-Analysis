@@ -48,6 +48,6 @@ Usage behavior by demographics:
 
 ##  Addiction Metrics
 Usage and demographics by addicted and non-addicted:
-![Dashboard Addiction](Addiction_Metrics.png)
+![Dashboard Addict](Addiction_MetricsV2.png)
 
 
