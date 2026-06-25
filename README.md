@@ -1,11 +1,12 @@
-# Smartphone-Usage-Analysis
-Data analysis project examining smartphone usage patterns and addiction indicators using MySQL and Power BI
-
 # Smartphone Usage Behavioral Analytics
+
+## Business Problem
+
+Identify behavioral indicators associated with excessive smartphone use and evaluate impacts on sleep, stress, and productivity.
 
 ## Project Overview
 
-This project analyzes smartphone usage behavior and addiction indicators across a dataset of 7,500 users using MySQL and Power BI.
+This project analyzes smartphone usage behavior and addiction indicators across a dataset of 7,500 users. 
 
 The analysis explores:
 
@@ -29,6 +30,12 @@ The analysis explores:
 - Weekend screen time exceeds 9 hours on average.
 - Smartphones addiction correlated with increased screen timeand social media usage.
 
+## Recommendations
+
+- Implement screen time controls.
+- Encourage healthier work-life balance.
+- Increase awareness of smartphone usage habits.
+
 ## Files Included
 
  |  File  |  Description  |
@@ -38,20 +45,34 @@ The analysis explores:
  |  Smartphone_Usage_Dataset.xlsx  |  Original data, Power BI changes and Cleaned data  |
  |  Executive_Summary.pdf  |  Project report  |
 
+
+
 ## Dashboard Preview
 Main page of dashboard:
 ![Dashboard KPIs](images/Overview.png) 
+
+
 
 ## Demographics
 Usage behavior by demographics:
 ![Dashboard Usage](images/Demographics.png)
 
+
+
 ##  Addiction Metrics
 Usage and demographics by addicted and non-addicted:
 <img src="images/Addiction_MetricsV2.png" width="864">
 
+
+
 ## Addiction Statistics Matrix
 Statistical metrics of addicted and non-addicted by demographics and usage:
 ![Dashboard Statistics](images/Addiction_Statistics.png)
+
+
+
+## Author
+
+Scott Fike
 
 
