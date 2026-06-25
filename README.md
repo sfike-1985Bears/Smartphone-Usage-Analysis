@@ -40,18 +40,18 @@ The analysis explores:
 
 ## Dashboard Preview
 Main page of dashboard:
-![Dashboard KPIs](Overview.png) 
+![Dashboard KPIs](images/Overview.png) 
 
 ## Demographics
 Usage behavior by demographics:
-![Dashboard Usage](Demographics.png)
+![Dashboard Usage](images/Demographics.png)
 
 ##  Addiction Metrics
 Usage and demographics by addicted and non-addicted:
-<img src="Addiction_MetricsV2.png" width="864">
+<img src="images/Addiction_MetricsV2.png" width="864">
 
 ## Addiction Statistics Matrix
 Statistical metrics of addicted and non-addicted by demographics and usage:
-![Dashboard Statistics](Addiction_Statistics.png)
+![Dashboard Statistics](images/Addiction_Statistics.png)
 
 
