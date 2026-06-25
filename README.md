@@ -40,4 +40,4 @@ The analysis explores:
 
 ## Dashboard Preview
 
-![Dashboard] ( 
+![Dashboard KPIs](Overview.png) 
