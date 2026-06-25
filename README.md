@@ -44,6 +44,6 @@ Main page of dashboard
 
 ## Demographics
 Usage behavior by demographics
-![Dashboard Usage](Demographics.png
+![Dashboard Usage](Demographics.png)
 
 
