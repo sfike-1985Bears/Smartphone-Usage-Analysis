@@ -50,4 +50,8 @@ Usage behavior by demographics:
 Usage and demographics by addicted and non-addicted:
 <img src="Addiction_MetricsV2.png" width="864">
 
+## Addiction Statistics Matrix
+Statistical metrics of addicted and non-addicted by demographics and usage:
+![Dashboard Statistics](Addiction_Statistics.png)
+
 
