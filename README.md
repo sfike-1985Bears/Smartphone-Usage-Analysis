@@ -39,5 +39,11 @@ The analysis explores:
  |  Executive_Summary.pdf  |  Project report  |
 
 ## Dashboard Preview
-
+Main page of dashboard
 ![Dashboard KPIs](Overview.png) 
+
+## Demographics
+Usage behavior by demographics
+![Dashboard Usage](Demographics.png
+
+
