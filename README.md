@@ -28,7 +28,7 @@ The analysis explores:
 - Over 70% of users were classified as addicted.
 - Average daily screen time exceeds 8 hours.
 - Weekend screen time exceeds 9 hours on average.
-- Smartphones addiction correlated with increased screen timeand social media usage.
+- Smartphones addiction correlated with increased screen time and social media usage.
 
 ## Recommendations
 
