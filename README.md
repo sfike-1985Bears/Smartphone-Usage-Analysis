@@ -6,6 +6,9 @@ Identify behavioral indicators associated with excessive smartphone use and eval
 
 ## Project Overview
 
+### Smartphone Usage Analysis - Interactive Dashboard 
+**[Click here to interact with the live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDRiMzE3MzktODA0My00NTUxLWI1NTgtM2E2ZGFiYmM4Y2I0IiwidCI6ImM5NjMyMDlmLTk1YTktNGYzYy1iNTU4LTBmOTQzM2MzYjhhNSJ9)**
+
 This project analyzes smartphone usage behavior and addiction indicators across a dataset of 7,500 users. 
 
 The analysis explores:
